@@ -1,0 +1,10 @@
+# Copy this file to local.properties and fill in your keys.
+# local.properties is gitignored — never commit real keys.
+
+# TfL Unified API key — obtain from https://api-portal.tfl.gov.uk/
+# Subscribe to "500 Requests per Min" or "TrackernetFeedPublic"
+TFL_API_KEY=your_tfl_primary_key_here
+
+# Google Maps Android SDK key — obtain from https://console.cloud.google.com/
+# Enable "Maps SDK for Android" in your project
+MAPS_API_KEY=your_google_maps_key_here

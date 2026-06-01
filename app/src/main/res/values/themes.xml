@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        Bridge theme: the Activity window is transparent to the Compose theme.
+        All actual theming is handled by TrackerTheme in Compose.
+    -->
+    <style name="Theme.Tracker" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
